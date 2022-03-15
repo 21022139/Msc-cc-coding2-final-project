@@ -1,7 +1,7 @@
 # 21/22 Coding Two: Advanced Frameworks
-##Final project description
-##Yansong Wang
-##21022139
+*Final project description*
+*Yansong Wang*
+*21022139*
 
 ![Screenshot 2022-03-15 at 13 52 11](https://user-images.githubusercontent.com/92035097/158420937-d8a918dc-e951-4105-a894-d52a7788e370.jpg)
 
